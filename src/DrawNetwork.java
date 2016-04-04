@@ -55,7 +55,7 @@ public class DrawNetwork extends JComponent {
         final DrawNetwork draw = new DrawNetwork();
         draw.setPreferredSize(new Dimension(1000, 500));
         testFrame.getContentPane().add(draw, BorderLayout.CENTER);
-        ClassificationTask task = new ClassificationTask(150, 9);
+        ClassificationTask task = new ClassificationTask(150, 25);
         task.trainNetwork(500000, draw);
         testFrame.pack();
         testFrame.setVisible(true);
