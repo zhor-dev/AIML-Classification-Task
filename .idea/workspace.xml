@@ -26,8 +26,8 @@
       <file leaf-file-name="KohonenSelfOrganizingMap.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SOMMap/KohonenSelfOrganizingMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9156327">
-              <caret line="123" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.6203474">
+              <caret line="116" column="21" selection-start-line="116" selection-start-column="21" selection-end-line="116" selection-end-column="21" />
               <folding>
                 <element signature="e#2343#2344#0" expanded="true" />
                 <element signature="e#2391#2392#0" expanded="true" />
@@ -677,15 +677,15 @@
       <workItem from="1459584797074" duration="1375000" />
       <workItem from="1459728663239" duration="7079000" />
       <workItem from="1459776219447" duration="1923000" />
-      <workItem from="1459790456981" duration="12915000" />
+      <workItem from="1459790456981" duration="13254000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23292000" />
+    <option name="totallyTimeSpent" value="23631000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -906,8 +906,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SOMMap/KohonenSelfOrganizingMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9156327">
-          <caret line="123" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.6203474">
+          <caret line="116" column="21" selection-start-line="116" selection-start-column="21" selection-end-line="116" selection-end-column="21" />
           <folding>
             <element signature="e#2343#2344#0" expanded="true" />
             <element signature="e#2391#2392#0" expanded="true" />
